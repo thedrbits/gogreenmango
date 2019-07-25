@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Green Mango
 #subtitle:
-subtitle: Frontend Developer
+subtitle: Software Studio by Daniel Rice
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -23,8 +23,8 @@ title:
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
-    description: One line of text describing the content of the page in less than 140 characters.
-    keywords: foo, bar, baz
+    description: Green Mango Software Development and Consulting Studio
+    keywords: software, development, consulting, mobile, web, desktop
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
