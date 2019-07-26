@@ -12,9 +12,9 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Green Mango
+name: Green Mango Systems
 #subtitle:
-subtitle: Software Studio by Daniel Rice
+subtitle: A Software Studio by <a href='https://www.drbits.org'>Daniel Rice</a>
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
