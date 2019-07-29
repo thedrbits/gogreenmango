@@ -42,9 +42,9 @@ baseurl: ''
 # https://support.google.com/analytics/answer/2763052
 #ga:
 ga:
-    account: 'UA-120960520-1'
-    cookieconsent: true
-    anonymizeip: true
+    account: 'UA-42778991-3'
+    cookieconsent: false
+    anonymizeip: false
 
 
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
