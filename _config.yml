@@ -91,7 +91,7 @@ links:
   - email:
       name: Email
       show: true
-      href: dan@drbits.org
+      href: mailto:drice@greenmangosystems.com
       icon: fas fa-envelope
 
 
