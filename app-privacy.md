@@ -1,3 +1,7 @@
+layout: page
+title: "App Privacy"
+permalink: /app-privacy
+
 Thank you for using our mobile app that provides alerts when Disneyland Reservations become available. We take your privacy and the security of your personal information seriously, and we want you to feel confident that your information is safe and protected.
 
 We only collect and use the minimum amount of personal information necessary to provide our service to you, including your phone number to send you alerts when Disneyland reservations become available. We do not sell or share your personal information with any third parties.
