@@ -1,7 +1,7 @@
 ---
 layout: page
 title: App Privacy
-permalink: /app-privacy
+permalink: /app-privacy/
 ---
 Thank you for using our mobile app that provides alerts when Disneyland Reservations become available. We take your privacy and the security of your personal information seriously, and we want you to feel confident that your information is safe and protected.
 
